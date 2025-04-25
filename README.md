@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohit Gautam
+- 👋 Hi, I’m Mohit Kumar
 - 👀 I’m interested in ... Developing,Building Amazing Projects
 - 🌱 I’m currently learning ...Web Development,Django
 - 💞️ I’m looking to collaborate on ...
